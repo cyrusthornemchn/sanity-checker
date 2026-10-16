@@ -45,6 +45,8 @@ Market : Will the Senate pass the bill by Nov 30?
   ([why platforms price differently](https://brainresearchhub.net/research/perps/why-kalshi-polymarket-price-differently)).
 
 ## Related research
+- [The 6-check pre-trade sanity routine (with free CLI)](https://brainresearchhub.net/research/access/price-sanity-checklist-cli)
+
 
 - [Markets vs polls: the full evidence review](https://brainresearchhub.net/research/access/prediction-markets-vs-polls-evidence)
 - [Who actually makes money: leaderboard reality](https://brainresearchhub.net/research/sdk/who-makes-money-polymarket-leaderboard)
